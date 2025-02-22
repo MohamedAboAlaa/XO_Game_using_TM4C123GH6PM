@@ -1,6 +1,8 @@
 # XO-Game Project using TM4C123GH6PM Microcontroller
 
-![Gameplay](Project_Run.mp4)
+<p align="center">
+  <img src="unnamed.png" alt="Gameplay">
+</p>
 
 This project simulates the classic XO (Tic-Tac-Toe) game using the TM4C123GH6PM microcontroller. The game supports two modes of play:
 1. **Hardware Mode**: Two players use a potentiometer (slider) to navigate through the cells on a Nokia5110 screen and press buttons to place their marks (X or O).
